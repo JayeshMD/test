@@ -1,5 +1,5 @@
 import numpy as np
-a = int(input("Enter number:"))
+a = int(input("Enter num:"))
 print("Square of ",a,' is', a**2)
 print("Cube of ",a,' is', a**3)
 
