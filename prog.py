@@ -5,3 +5,4 @@ print("Cube of ",a,' is', a**3)
 
 print('Sin(',a,')=',np.sin(a))
 print('Cos(',a,')=',np.cos(a))
+print('tan(',a,')=',np.tan(a))
